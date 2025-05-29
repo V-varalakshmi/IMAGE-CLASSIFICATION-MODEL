@@ -21,3 +21,12 @@ After training, the model is evaluated on the test set to determine its accuracy
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/c0cd87c4-fd85-4c68-9348-ae81fd32457c)
+
+![Image](https://github.com/user-attachments/assets/f7f4007a-7410-4076-8da5-33c5472242a3)
+
+![Image](https://github.com/user-attachments/assets/9a1d4647-4eeb-47e9-9cc5-746ba2d2023c)
+
+![Image](https://github.com/user-attachments/assets/5a438350-42e1-4bf9-8bf5-1f2e9649d0c6)
+
+![Image](https://github.com/user-attachments/assets/e1cc9b10-fba3-44bd-af50-de12ba3b8eff)
